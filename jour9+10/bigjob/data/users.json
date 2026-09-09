@@ -1,0 +1,29 @@
+{
+    "allowedDomains": [
+        "laplateforme.io",
+        "laplateforme.com"
+    ],
+    "users": [
+        {
+            "id": "u-admin",
+            "name": "Nora Benali",
+            "email": "admin@laplateforme.io",
+            "password": "admin123",
+            "role": "admin"
+        },
+        {
+            "id": "u-moderator",
+            "name": "Lucas Martin",
+            "email": "lucas.martin@laplateforme.io",
+            "password": "lucas123",
+            "role": "moderator"
+        },
+        {
+            "id": "u-student",
+            "name": "Chloé Bernard",
+            "email": "chloe.bernard@laplateforme.io",
+            "password": "chloe123",
+            "role": "student"
+        }
+    ]
+}
